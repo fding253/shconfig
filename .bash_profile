@@ -25,6 +25,7 @@ alias ll="ls -FGAlh"				# List long all
 alias cddoc="cd ~/Documents" 
 alias cdprog="cd ~/Documents/prog_Practice" 
 alias cdproj="cd ~/Documents/projects" 
+alias cdomscs="cd ~/Dropbox/docs/academic/2021-OMSCS"
 alias cdml="cd ~/Documents/ML-coursera"
 alias cdpy="cd ~/PyCharmProjects"
 alias bnp="cd ~/Documents/projects/kaggle-201602-BNP"
